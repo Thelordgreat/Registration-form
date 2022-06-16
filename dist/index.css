@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url(./img/bg-intro-desktop.png);
+    background-image: url(../img/bg-intro-desktop.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-color: hsl(0, 100%, 74%);
@@ -140,7 +140,7 @@ form{
 
 @media (max-width: 768px){
     body{
-        background-image: url(./img/bg-intro-mobile.png);
+        background-image: url(../img/bg-intro-mobile.png);
         background-size: cover;
         height: 100%;
     }
